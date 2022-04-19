@@ -1,0 +1,106 @@
+{
+  "name": "local_net_planl",
+  "source": {
+    "type": 1,
+    "platform": 2
+  },
+  "playRelations": [
+    {
+      "fileName": "playSolutionRelation.json",
+      "md5": "0177f41b612adf432898f898a10975af"
+    }
+  ],
+  "playSolutions": [
+    {
+      "fileName": "play_solution.json",
+      "md5": "d76cc3d4e8d57177a9755b6aba99b021"
+    }
+  ],
+  "playlists": [
+    {
+      "fileName": "playlist0.json",
+      "md5": "98efcd4abf710052b9cf6a00d1fb4a66"
+    }
+  ],
+  "scheduleConstraints": [
+    {
+      "fileName": "schedule_constraint.json",
+      "md5": "209e34fa93c195130a0e0d82542cffd7"
+    }
+  ],
+  "medialists": [],
+  "resources": [
+    {
+      "fileName": "1917d6bfe66c499b5e2b0775bed98a57.gif",
+      "md5": "1917d6bfe66c499b5e2b0775bed98a57",
+      "type": "GIF",
+      "size": 161707
+    },
+    {
+      "fileName": "1917d6bfe66c499b5e2b0775bed98a57.gif",
+      "md5": "1917d6bfe66c499b5e2b0775bed98a57",
+      "type": "GIF",
+      "size": 161707
+    },
+    {
+      "fileName": "681648bbcf8f7aeb54e717b080c021fe.gif",
+      "md5": "681648bbcf8f7aeb54e717b080c021fe",
+      "type": "GIF",
+      "size": 124711
+    },
+    {
+      "fileName": "681648bbcf8f7aeb54e717b080c021fe.gif",
+      "md5": "681648bbcf8f7aeb54e717b080c021fe",
+      "type": "GIF",
+      "size": 124711
+    },
+    {
+      "fileName": "7c5a1322309a635d3d2489f45fb7a09a.gif",
+      "md5": "7c5a1322309a635d3d2489f45fb7a09a",
+      "type": "GIF",
+      "size": 838280
+    },
+    {
+      "fileName": "7c5a1322309a635d3d2489f45fb7a09a.gif",
+      "md5": "7c5a1322309a635d3d2489f45fb7a09a",
+      "type": "GIF",
+      "size": 838280
+    },
+    {
+      "fileName": "ae6a9462dccd09d8ac21188c02434fcc.gif",
+      "md5": "ae6a9462dccd09d8ac21188c02434fcc",
+      "type": "GIF",
+      "size": 559620
+    },
+    {
+      "fileName": "ae6a9462dccd09d8ac21188c02434fcc.gif",
+      "md5": "ae6a9462dccd09d8ac21188c02434fcc",
+      "type": "GIF",
+      "size": 559620
+    },
+    {
+      "fileName": "c2ec6c5f07720dbcca98fb366b5a2c16.gif",
+      "md5": "c2ec6c5f07720dbcca98fb366b5a2c16",
+      "type": "GIF",
+      "size": 102213
+    },
+    {
+      "fileName": "c2ec6c5f07720dbcca98fb366b5a2c16.gif",
+      "md5": "c2ec6c5f07720dbcca98fb366b5a2c16",
+      "type": "GIF",
+      "size": 102213
+    },
+    {
+      "fileName": "c2be7c8890dfe0ddbd4d0b577aefa50a.bmp",
+      "md5": "c2be7c8890dfe0ddbd4d0b577aefa50a",
+      "type": "PICTURE",
+      "size": 104
+    },
+    {
+      "fileName": "c2be7c8890dfe0ddbd4d0b577aefa50a.bmp",
+      "md5": "c2be7c8890dfe0ddbd4d0b577aefa50a",
+      "type": "PICTURE",
+      "size": 104
+    }
+  ]
+}

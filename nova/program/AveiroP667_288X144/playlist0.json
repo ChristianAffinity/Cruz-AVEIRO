@@ -1,0 +1,2416 @@
+{
+  "uuid": "e09379c5-8bc2-414f-90a1-663403e3ac25",
+  "name": "AveiroP667_288X144",
+  "sceneItems": [
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 161707,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\GIF_covid_verde_v1.gif",
+                  "dataSource": "1917d6bfe66c499b5e2b0775bed98a57.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "GIF_covid_verde_v1.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100000,
+                  "uuid": "cb6f3e79-0df1-4622-b3b5-324b0662f0f5"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "6f94036e-ae0d-4458-b4e2-b2d66247c49f"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página2",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200000,
+            "uuid": "b3d1f7d5-76a9-465d-9222-73684826a065"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 161707,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\GIF_covid_verde_v1.gif",
+                  "dataSource": "1917d6bfe66c499b5e2b0775bed98a57.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "GIF_covid_verde_v1.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100001,
+                  "uuid": "8ad8a36f-e0cf-4293-a98d-a2fa33677139"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "271e47ca-7bb5-41db-910f-29f4bd18a610"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página2",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200001,
+            "uuid": "abc994e9-3758-4fd8-9271-0a60e080d039"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página2",
+        "id": 0,
+        "uuid": "da0e5011-d787-4265-86b5-4314bdfb2e8d"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "thumbpath": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\nova\\nova_Scene.png",
+      "name": "Escena2",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 0,
+      "uuid": "6fdf9700-0b42-4f0d-8514-7c2c0cea3d4c"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 124711,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\GIF_luzes_FP.gif",
+                  "dataSource": "681648bbcf8f7aeb54e717b080c021fe.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "GIF_luzes_FP.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100002,
+                  "uuid": "31db5ecd-3315-427b-abbe-bf67cbddf019"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "b86e119a-466c-4bb7-993e-97fa16f3b692"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página3",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200002,
+            "uuid": "9a1bc077-d7c8-46d1-85f8-743c3e4d6a52"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 124711,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\GIF_luzes_FP.gif",
+                  "dataSource": "681648bbcf8f7aeb54e717b080c021fe.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "GIF_luzes_FP.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100003,
+                  "uuid": "145ad9db-8d2b-4bb4-b057-5528c9ef6158"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "33fef748-c69b-47f3-a61f-3fbb49d27527"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página3",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200003,
+            "uuid": "35a3b0e1-0ca0-4272-82b6-724438170630"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página3",
+        "id": 1,
+        "uuid": "ece3a37f-bd5e-4798-8a03-fdbcf492ec5a"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "name": "Página3Escena",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 1,
+      "uuid": "5d5aa84e-9c8d-402e-a82c-012a0efcb33d"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 838280,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\gripe.gif",
+                  "dataSource": "7c5a1322309a635d3d2489f45fb7a09a.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "gripe.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100004,
+                  "uuid": "080b8a52-3b4a-4246-98bb-79db331c4228"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "82dc356f-d429-4d20-901c-ae405b177567"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página4",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200004,
+            "uuid": "8ccfb695-7ea1-4712-a0e9-c24250ffe134"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 838280,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\gripe.gif",
+                  "dataSource": "7c5a1322309a635d3d2489f45fb7a09a.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "gripe.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100005,
+                  "uuid": "81d710de-2581-43e4-b327-24eba89533c9"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "775b1a72-7ff5-456a-af96-d26595254976"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página4",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200005,
+            "uuid": "8e3879ab-5d90-4b34-9e12-a32cbeabb325"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página4",
+        "id": 2,
+        "uuid": "cf78d255-fbfd-4843-8af9-3248db1f9776"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "thumbpath": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\nova\\nova_Scene.png",
+      "name": "Escena4",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 2,
+      "uuid": "70406e8b-208e-438f-b10e-fb61902d7694"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 559620,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\saude oral.gif",
+                  "dataSource": "ae6a9462dccd09d8ac21188c02434fcc.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "saude oral.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100006,
+                  "uuid": "e5906d3f-b3fb-46d3-acb1-c699659b2ce4"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "4a904eff-68f7-4db3-a8e9-0211545ff897"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página5",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200006,
+            "uuid": "86dd6561-d84b-4b1a-ad96-844778483ca9"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 559620,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\saude oral.gif",
+                  "dataSource": "ae6a9462dccd09d8ac21188c02434fcc.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "saude oral.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100007,
+                  "uuid": "dc67d118-95e9-4689-99a0-7cebf1bedde2"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "2ef75b68-10c5-4643-bde5-3dd1e12283cb"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página5",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200007,
+            "uuid": "3b376d33-8f9c-4352-832c-6e7192b93e4e"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página5",
+        "id": 3,
+        "uuid": "5b042f77-74b1-4cad-a934-fb14d52b99b8"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "thumbpath": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\nova\\nova_Scene.png",
+      "name": "Escena5",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 3,
+      "uuid": "4c0255c3-5331-4903-b3ce-b7f52ca089e1"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 102213,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\Vacinação.gif",
+                  "dataSource": "c2ec6c5f07720dbcca98fb366b5a2c16.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Vacinação.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100008,
+                  "uuid": "8cf85243-fbd7-40da-9af6-19644a5e6b42"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "ceb03ef3-7047-4a7f-bddc-a398f0b2ec51"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página6",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200008,
+            "uuid": "863e4f89-2555-411b-9751-fe21945021d5"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "displayRatio": "FULL",
+                  "filesize": 102213,
+                  "originalDataSource": "C:\\Users\\usuario\\Desktop\\Aveiro\\Animaciones Glintt\\Vacinação.gif",
+                  "dataSource": "c2ec6c5f07720dbcca98fb366b5a2c16.gif",
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Vacinação.gif",
+                  "enable": true,
+                  "type": "GIF",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100009,
+                  "uuid": "d7e8731d-a641-42f2-b8a9-2112a0e557b4"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "5de03374-d386-431b-89c7-42d43d015b05"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página6",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200009,
+            "uuid": "cfa3d53a-2f79-4b80-b63a-8a5155a7baac"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página6",
+        "id": 4,
+        "uuid": "79136e8d-25bf-47da-9383-c57f329ecabd"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "thumbpath": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\nova\\nova_Scene.png",
+      "name": "Escena6",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 4,
+      "uuid": "87847854-8343-4d60-be01-e6f582ca3fe4"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "48",
+              "width": "144",
+              "height": "48"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "33.3333333333333%",
+              "width": "50%",
+              "height": "33.3333333333333%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "metadata": {
+                    "dateStyleIndex": 2,
+                    "timeStyleIndex": 0,
+                    "EditLanguageEnvir": "ES",
+                    "zone": "Europe/London",
+                    "gmt": "GMT+00:00",
+                    "regular": "$MM/$dd/$yyyy\n$E\n$hh:$mm:$ss&#160;$N",
+                    "weekTemplates": [
+                      "Domingo",
+                      "Lunes",
+                      "Martes",
+                      "Miércoles",
+                      "Jueves",
+                      "Viernes",
+                      "Sábado"
+                    ],
+                    "suffixTemplates": [
+                      "AM",
+                      "PM"
+                    ],
+                    "textAttributes": {
+                      "backgroundColor": "00ff00",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "FontText": "Arial",
+                        "style": "BOLD",
+                        "size": 18,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": ""
+                    },
+                    "FontFamily": "Arial"
+                  },
+                  "displayRatio": "FULL",
+                  "filesize": 1024,
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Reloj1",
+                  "enable": true,
+                  "type": "DIGITAL_CLOCK",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100010,
+                  "uuid": "0a81c91e-cd98-4cd0-9f5b-dc5ca6edeee0"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "8a6c8c10-6f84-4ca2-a6ee-dd969ce9d8a6"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página7",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200010,
+            "uuid": "848cad11-614a-4d42-a9a5-42ef585a2270"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "48",
+              "width": "144",
+              "height": "48"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "33.3333333333333%",
+              "width": "50%",
+              "height": "33.3333333333333%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "metadata": {
+                    "dateStyleIndex": 2,
+                    "timeStyleIndex": 0,
+                    "EditLanguageEnvir": "ES",
+                    "zone": "Europe/London",
+                    "gmt": "GMT+00:00",
+                    "regular": "$MM/$dd/$yy\n$E\n$hh:$mm:$ss&#160;$N",
+                    "weekTemplates": [
+                      "Domingo",
+                      "Lunes",
+                      "Martes",
+                      "Miércoles",
+                      "Jueves",
+                      "Viernes",
+                      "Sábado"
+                    ],
+                    "suffixTemplates": [
+                      "AM",
+                      "PM"
+                    ],
+                    "textAttributes": {
+                      "backgroundColor": "00ff00",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "FontText": "Arial",
+                        "style": "BOLD",
+                        "size": 18,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": ""
+                    },
+                    "FontFamily": "Arial"
+                  },
+                  "displayRatio": "FULL",
+                  "filesize": 1024,
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Reloj1",
+                  "enable": true,
+                  "type": "DIGITAL_CLOCK",
+                  "duration": 10000,
+                  "repeatCount": 1,
+                  "id": 100011,
+                  "uuid": "cd3db372-3403-4694-8899-674ad9525626"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "7837913c-ed64-4e5f-99c3-ec17e6416917"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página7",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200011,
+            "uuid": "6f6a6d45-902e-4e49-8536-00d4019d5a2a"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página7",
+        "id": 5,
+        "uuid": "52d6359f-e1a4-4243-930e-46d72c602b6f"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "name": "Escena7",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 5,
+      "uuid": "4c4d09d2-188b-4d54-a65f-a602dc251ae5"
+    },
+    {
+      "constraints": [
+        {
+          "startTime": "1970-01-01T00:00:00Z+08:00",
+          "endTime": "4012-01-01T24:00:00Z+08:00",
+          "cron": [
+            "0 0 0 ? * 1,2,3,4,5,6,7"
+          ]
+        }
+      ],
+      "page": {
+        "widgets": [],
+        "widgetContainers": [
+          {
+            "zOrder": 1,
+            "ExportLayout": {
+              "x": "0",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "0%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "metadata": {
+                    "_height": 144,
+                    "updatePeriod": 60000,
+                    "temperatureUnit": "Celsius",
+                    "regular": "     TEMPERATURA:$t\n",
+                    "solidText": {
+                      "text": "",
+                      "textAttributes": {
+                        "backgroundColor": "#00FFFFFF",
+                        "textColor": "#FFFFFFFF",
+                        "font": {
+                          "family": [
+                            "Arial"
+                          ],
+                          "style": "BOLD",
+                          "size": 12,
+                          "isUnderline": false
+                        },
+                        "shadowEnable": false,
+                        "shadowRadius": 0,
+                        "shadowDx": 0,
+                        "shadowDy": 0,
+                        "shadowColor": "#00ff00",
+                        "strokeEnable": false,
+                        "strokeWidth": 0,
+                        "letterSpacing": 0
+                      }
+                    },
+                    "textAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "valueTextAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "unitTextAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "temperatureCompensation": 0,
+                    "displayStyle": {
+                      "type": "PAGE_SWITCH",
+                      "singleLine": true,
+                      "pageSwitchAttributes": {
+                        "inAnimation": {
+                          "type": 1,
+                          "duration": 1000
+                        },
+                        "remainDuration": 10000
+                      },
+                      "scrollAttributes": {
+                        "effects": {
+                          "speed": 3,
+                          "animation": "MARQUEE_UP",
+                          "isHeadTail": false,
+                          "headTailSpacing": "10",
+                          "speedByPixelEnable": false
+                        }
+                      },
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "layoutStyles": [
+                      {
+                        "type": 1,
+                        "horizontalAlignment": "RIGHT",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 50
+                      },
+                      {
+                        "type": 0,
+                        "horizontalAlignment": "CENTER",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 1
+                      },
+                      {
+                        "type": 4,
+                        "horizontalAlignment": "LEFT",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 49
+                      }
+                    ],
+                    "regularContents": [
+                      {
+                        "key": "$t",
+                        "type": 0,
+                        "unit": "℃",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$n",
+                        "type": 0,
+                        "unit": "dB",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$WS",
+                        "type": 0,
+                        "unit": "km/h",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$WD",
+                        "type": 0,
+                        "unit": "",
+                        "compensation": 0.0,
+                        "Templates": [
+                          "viento del norte",
+                          "Viento del noreste",
+                          "Viento del este",
+                          "Viento del sureste",
+                          "viento del sur",
+                          "Viento del suroeste",
+                          "viento del oeste",
+                          "Viento del noroeste"
+                        ]
+                      },
+                      {
+                        "key": "$AT",
+                        "type": 0,
+                        "unit": "℃",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$AP",
+                        "type": 0,
+                        "unit": "kPa",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$AH",
+                        "type": 0,
+                        "unit": "%RH",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$PM2.5",
+                        "type": 0,
+                        "unit": "μg/m³",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$PM10",
+                        "type": 0,
+                        "unit": "μg/m³",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$CO2",
+                        "type": 0,
+                        "unit": "ppm",
+                        "compensation": 0.0
+                      }
+                    ],
+                    "RTVisibleList": [
+                      2,
+                      2,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      2,
+                      0,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2
+                    ],
+                    "ValueFontFamily": "Arial",
+                    "UnitFontFamily": "Arial",
+                    "FixedTextFontFamily": "Arial",
+                    "FontFamily": "Arial",
+                    "TemperatureLable": "     TEMPERATURA:",
+                    "NoiseLable": "Ruido:",
+                    "WindSpeedLable": "Velocidad del viento:",
+                    "WindDirectionLable": "Dirección del viento:",
+                    "AirTemperatureLable": "Temperatura del aire:",
+                    "AirPressureLable": "Presión del aire:",
+                    "AirHumiLable": "Humedad del aire:",
+                    "PM25Lable": "PM2.5:",
+                    "PM10Lable": "PM10:",
+                    "CO2Lable": "CO2:"
+                  },
+                  "displayRatio": "FULL",
+                  "filesize": 1024,
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Detección del ambiente1",
+                  "enable": true,
+                  "type": "RT_MEDIA",
+                  "duration": 5000,
+                  "repeatCount": 1,
+                  "id": 100012,
+                  "uuid": "c3251738-6ba3-4140-a389-9f85db997caa"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "ba2f16a3-b09d-4d84-8231-8ac90a000d4f"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página8",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200012,
+            "uuid": "d9b02704-8bee-452f-a8c0-05674240486d"
+          },
+          {
+            "zOrder": 2,
+            "ExportLayout": {
+              "x": "144",
+              "y": "0",
+              "width": "144",
+              "height": "144"
+            },
+            "layout": {
+              "x": "50%",
+              "y": "0%",
+              "width": "50%",
+              "height": "100%"
+            },
+            "border": {
+              "aspectRatio": {
+                "type": 0,
+                "isLocked": true
+              },
+              "originalBorderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "borderSource": "C:\\Program Files (x86)\\Nova Star\\ViPlex Express\\Bin\\Images\\D01\\1001.bmp",
+              "foregroundColor": "#FF008000",
+              "width": 0,
+              "name": "border",
+              "borderThickness": "0px,0px,0px,0px",
+              "cornerRadius": "2%",
+              "backgroundColor": "#FFFF0000",
+              "TempBorderBackgroud": "#FFFF0000",
+              "style": 0,
+              "styleForExpress": 0,
+              "effects": {
+                "speed": 2,
+                "animation": "CLOCK_WISE",
+                "isHeadTail": false,
+                "headTailSpacing": "10",
+                "speedByPixelEnable": false
+              }
+            },
+            "contents": {
+              "widgets": [
+                {
+                  "layout": {
+                    "x": "0%",
+                    "y": "0%",
+                    "width": "100%",
+                    "height": "100%"
+                  },
+                  "inAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "outAnimation": {
+                    "type": 0,
+                    "duration": 1000
+                  },
+                  "border": {
+                    "aspectRatio": {
+                      "type": 0,
+                      "isLocked": true
+                    },
+                    "foregroundColor": "#FF008000",
+                    "width": 1,
+                    "name": "border",
+                    "borderThickness": "0px,0px,0px,0px",
+                    "cornerRadius": "2%",
+                    "backgroundColor": "#FF000000",
+                    "style": 0,
+                    "styleForExpress": 0,
+                    "effects": {
+                      "speed": 3,
+                      "animation": "CLOCK_WISE",
+                      "isHeadTail": false,
+                      "headTailSpacing": "10",
+                      "speedByPixelEnable": false
+                    }
+                  },
+                  "constraints": [
+                    {
+                      "startTime": "1970-01-01T00:00:00Z+8:00",
+                      "endTime": "4012-01-01T23:59:59Z+8:00",
+                      "cron": [
+                        "0 0 0 ? * 1,2,3,4,5,6,7"
+                      ]
+                    }
+                  ],
+                  "metadata": {
+                    "_height": 144,
+                    "updatePeriod": 60000,
+                    "temperatureUnit": "Celsius",
+                    "regular": "     TEMPERATURA:$t\n",
+                    "solidText": {
+                      "text": "",
+                      "textAttributes": {
+                        "backgroundColor": "#00FFFFFF",
+                        "textColor": "#FFFFFFFF",
+                        "font": {
+                          "family": [
+                            "Arial"
+                          ],
+                          "style": "BOLD",
+                          "size": 12,
+                          "isUnderline": false
+                        },
+                        "shadowEnable": false,
+                        "shadowRadius": 0,
+                        "shadowDx": 0,
+                        "shadowDy": 0,
+                        "shadowColor": "#00ff00",
+                        "strokeEnable": false,
+                        "strokeWidth": 0,
+                        "letterSpacing": 0
+                      }
+                    },
+                    "textAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "valueTextAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "unitTextAttributes": {
+                      "backgroundColor": "#00FFFFFF",
+                      "textColor": "#FFFFFFFF",
+                      "font": {
+                        "family": [
+                          "Arial"
+                        ],
+                        "style": "BOLD",
+                        "size": 8,
+                        "isUnderline": false
+                      },
+                      "shadowEnable": false,
+                      "shadowRadius": 0,
+                      "shadowDx": 0,
+                      "shadowDy": 0,
+                      "shadowColor": "#00ff00",
+                      "strokeEnable": false,
+                      "strokeWidth": 0,
+                      "letterSpacing": 0
+                    },
+                    "temperatureCompensation": 0,
+                    "displayStyle": {
+                      "type": "PAGE_SWITCH",
+                      "singleLine": true,
+                      "pageSwitchAttributes": {
+                        "inAnimation": {
+                          "type": 1,
+                          "duration": 1000
+                        },
+                        "remainDuration": 10000
+                      },
+                      "scrollAttributes": {
+                        "effects": {
+                          "speed": 3,
+                          "animation": "MARQUEE_UP",
+                          "isHeadTail": false,
+                          "headTailSpacing": "10",
+                          "speedByPixelEnable": false
+                        }
+                      },
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      }
+                    },
+                    "layoutStyles": [
+                      {
+                        "type": 1,
+                        "horizontalAlignment": "RIGHT",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 50
+                      },
+                      {
+                        "type": 0,
+                        "horizontalAlignment": "CENTER",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 1
+                      },
+                      {
+                        "type": 4,
+                        "horizontalAlignment": "LEFT",
+                        "verticalAlignment": "CENTER",
+                        "proportion": 49
+                      }
+                    ],
+                    "regularContents": [
+                      {
+                        "key": "$t",
+                        "type": 0,
+                        "unit": "℃",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$n",
+                        "type": 0,
+                        "unit": "dB",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$WS",
+                        "type": 0,
+                        "unit": "km/h",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$WD",
+                        "type": 0,
+                        "unit": "",
+                        "compensation": 0.0,
+                        "Templates": [
+                          "viento del norte",
+                          "Viento del noreste",
+                          "Viento del este",
+                          "Viento del sureste",
+                          "viento del sur",
+                          "Viento del suroeste",
+                          "viento del oeste",
+                          "Viento del noroeste"
+                        ]
+                      },
+                      {
+                        "key": "$AT",
+                        "type": 0,
+                        "unit": "℃",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$AP",
+                        "type": 0,
+                        "unit": "kPa",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$AH",
+                        "type": 0,
+                        "unit": "%RH",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$PM2.5",
+                        "type": 0,
+                        "unit": "μg/m³",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$PM10",
+                        "type": 0,
+                        "unit": "μg/m³",
+                        "compensation": 0.0
+                      },
+                      {
+                        "key": "$CO2",
+                        "type": 0,
+                        "unit": "ppm",
+                        "compensation": 0.0
+                      }
+                    ],
+                    "RTVisibleList": [
+                      2,
+                      2,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      0,
+                      2,
+                      0,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2,
+                      2
+                    ],
+                    "ValueFontFamily": "Arial",
+                    "UnitFontFamily": "Arial",
+                    "FixedTextFontFamily": "Arial",
+                    "FontFamily": "Arial",
+                    "TemperatureLable": "     TEMPERATURA:",
+                    "NoiseLable": "Ruido:",
+                    "WindSpeedLable": "Velocidad del viento:",
+                    "WindDirectionLable": "Dirección del viento:",
+                    "AirTemperatureLable": "Temperatura del aire:",
+                    "AirPressureLable": "Presión del aire:",
+                    "AirHumiLable": "Humedad del aire:",
+                    "PM25Lable": "PM2.5:",
+                    "PM10Lable": "PM10:",
+                    "CO2Lable": "CO2:"
+                  },
+                  "displayRatio": "FULL",
+                  "filesize": 1024,
+                  "backgroundColor": "#00000000",
+                  "backgroundDrawable": "",
+                  "backgroundMusic": "",
+                  "name": "Detección del ambiente1",
+                  "enable": true,
+                  "type": "RT_MEDIA",
+                  "duration": 5000,
+                  "repeatCount": 1,
+                  "id": 100013,
+                  "uuid": "92825efa-7cbb-4db0-82e2-5a1146dd4777"
+                }
+              ],
+              "widgetGroups": [],
+              "widgetContainer": [],
+              "enable": false,
+              "zOrder": 0,
+              "id": 0,
+              "uuid": "f2c3b73c-f769-42fb-ac63-836eb6674ca9"
+            },
+            "PCType": 1,
+            "audioGroup": "",
+            "name": "Página8",
+            "enable": true,
+            "pickPolicy": "ORDER",
+            "id": 200013,
+            "uuid": "65715c1b-7724-492a-84e2-419654656318"
+          }
+        ],
+        "widgetGroups": [],
+        "name": "Página8",
+        "id": 6,
+        "uuid": "97fceb4e-1fbb-4f61-a6b2-56f407fd9cf4"
+      },
+      "backgroundColor": "#00000000",
+      "backgroundDrawable": "",
+      "backgroundMusic": "",
+      "name": "Página8Escena",
+      "enable": true,
+      "type": "PAGE",
+      "rules": "TIMES",
+      "duration": 0,
+      "repeatCount": 1,
+      "id": 6,
+      "uuid": "e8f6989b-0d34-4915-b783-42dd2c61fb05"
+    }
+  ],
+  "width": 288.0,
+  "height": 144.0,
+  "thumbpath": "C:\\ProgramData\\ViPlexExpress\\Config\\\\e09379c5-8bc2-414f-90a1-663403e3ac25.png",
+  "pickPolicy": "ORDER",
+  "id": 0
+}
